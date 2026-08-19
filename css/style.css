@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    text-decoration: none;
+    background-color: #52c4e9;
+;
+}
+.container{
+    width: 1080px;
+    margin: auto;
+}
+.content h1{
+    font-size: 33px;
+    text-align: center;
+}
+.form{
+    padding-top: 100px;
+    
+}
+.form-group{
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}

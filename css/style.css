@@ -7,22 +7,14 @@
 body {
     text-decoration: none;
     background-color: #52c4e9;
-;
-}
-.container{
-    width: 1080px;
-    margin: auto;
-}
-.content h1{
-    font-size: 33px;
-    text-align: center;
 }
 .form{
     padding-top: 100px;
     
 }
-.form-group{
+/* .form-group{
+    text-align: center;
     display: flex;
     align-items: center;
     margin-bottom: 20px;
-}
+} */
